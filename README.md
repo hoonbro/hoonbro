@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonze&layout=compact"/>
   </a>
   <a href="https://solved.ac/qkswo">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkswog"/>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkswo"/>
   </a>
 </p>
 <!--
