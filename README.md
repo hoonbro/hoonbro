@@ -1,10 +1,16 @@
 ### Hi there 👋 
-[![Hoonze's github stats](https://github-readme-stats.vercel.app/api?username=hoonze&show_icons=true&theme=graywhite)](https://github.com/hoonze/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkswo)](https://solved.ac/qkswo/)
-
 <p align='center'>
   <a href="https://github.com/hoonze/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hoonze&hide=issues&show_icons=true&theme=graywhite"/>
+  </a>
+</p>
+
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonze&layout=compact"/>
+  </a>
+  <a href="https://solved.ac/qkswo">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkswog"/>
   </a>
 </p>
 <!--
