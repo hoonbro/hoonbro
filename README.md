@@ -1,6 +1,12 @@
 ### Hi there 👋 
 [![Hoonze's github stats](https://github-readme-stats.vercel.app/api?username=hoonze&show_icons=true&theme=graywhite)](https://github.com/hoonze/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkswo)](https://solved.ac/qkswo/)
+
+<p align='center'>
+  <a href="https://github.com/hoonze/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoonze&hide=issues&show_icons=true&theme=graywhite"/>
+  </a>
+</p>
 <!--
 **hoonze/hoonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
