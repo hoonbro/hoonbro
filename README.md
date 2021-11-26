@@ -1,4 +1,5 @@
 ### 안녕하세요, 변지훈입니다.👋 
+> [Portfolio](https://www.notion.so/Portfolio-fa8c1e10f5bd4dda977b18ccab5c5e9e)
 <br>
 <p align='center'>
   <a href="https://github.com/hoonze/github-readme-stats">
