@@ -1,4 +1,4 @@
-### hi! 👋 
+### 안녕하세요, 변지훈입니다.👋 
 <br>
 <p align='center'>
   <a href="https://github.com/hoonze/github-readme-stats">
