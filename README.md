@@ -1,15 +1,15 @@
 ### 안녕하세요, 백엔드 개발에 관심이 많은 변지훈입니다.👋 
 > [Portfolio](https://www.notion.so/Portfolio-fa8c1e10f5bd4dda977b18ccab5c5e9e)
 <br>
-<p align='center'>
-  <a href="https://github.com/hoonze/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoonze&hide=issues&show_icons=true&theme=graywhite"/>
-  </a>
-</p>
 
 <p align='center'>
+  <a href="https://github.com/hoonze/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoonze&show_icons=true&layout=compact"/>
+  </a>
+</p>
+<p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonze&layout=compact"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonze&layout=compact&hide_border=true" /></a>
   </a>
   <a href="https://solved.ac/qkswo">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkswo"/>
