@@ -2,11 +2,11 @@
 > [Portfolio](https://www.notion.so/Portfolio-fa8c1e10f5bd4dda977b18ccab5c5e9e)
 <br>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="https://github.com/hoonze/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hoonze&show_icons=true&layout=compact"/>
   </a>
-</p>
+</p> -->
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonze&layout=compact&hide_border=true" /></a>
