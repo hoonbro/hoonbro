@@ -1,5 +1,5 @@
 ### 안녕하세요, 백엔드 개발에 관심이 많은 변지훈입니다.👋  
-> [Portfolio]([https://www.notion.so/Portfolio-edd6ccccae2b4963a3c28385ce2d7d99](https://pickled-territory-a5f.notion.site/Portfolio-edd6ccccae2b4963a3c28385ce2d7d99))
+> [Portfolio](https://pickled-territory-a5f.notion.site/Portfolio-edd6ccccae2b4963a3c28385ce2d7d99)
 <br>
 
 <!-- <p align='center'>
