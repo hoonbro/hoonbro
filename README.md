@@ -3,13 +3,13 @@
 <br>
 
 <!-- <p align='center'>
-  <a href="https://github.com/hoonze/github-readme-stats">
+  <a href="https://github.com/hoonbro/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hoonbro&show_icons=true&layout=compact"/>
   </a>
 </p> -->
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonze&layout=compact&hide_border=true" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonbro&layout=compact&hide_border=true" /></a>
   </a>
   <a href="https://solved.ac/qkswo">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkswo"/>
