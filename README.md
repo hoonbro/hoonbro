@@ -9,7 +9,7 @@
 </p> -->
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonbro&layout=compact&hide_border=true" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonbro&exclude_repo=hoonbro.github.io&hide=jupyter%20notebook&layout=compact&hide_border=true" /></a>
   </a>
   <a href="https://solved.ac/qkswo">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkswo"/>
